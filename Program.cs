@@ -19,7 +19,7 @@ class Program
             });
         
         CommonZipSource igSourceStf = new CommonZipSource(ModelInfo.ModelInspector,
-            "de.gematik.sterbefall#1.0.0-beta.3.zip", "./", new DirectorySourceSettings()
+            "de.gematik.sterbefall-1.0.0-ballot-snapshots.zip", "./", new DirectorySourceSettings()
             {
                 IncludeSubDirectories = true
             });

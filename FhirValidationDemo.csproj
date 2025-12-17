@@ -107,7 +107,7 @@
       <Content Include="de.basisprofil.r4#1.5.4.zip">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
-      <Content Include="de.gematik.sterbefall#1.0.0-beta.3.zip">
+      <Content Include="de.gematik.sterbefall-1.0.0-ballot-snapshots.zip">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
       <Content Include="specification.zip">
